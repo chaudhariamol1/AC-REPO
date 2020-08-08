@@ -1,0 +1,14 @@
+{
+    "num_workers": 1,
+    "cluster_name": "test",
+    "spark_version": "7.0.x-scala2.12",
+    "spark_conf": {},
+    "node_type_id": "Standard_DS3_v2",
+    "ssh_public_keys": [],
+    "custom_tags": {},
+    "spark_env_vars": {
+        "PYSPARK_PYTHON": "/databricks/python3/bin/python3"
+    },
+    "autotermination_minutes": 10,
+    "init_scripts": []
+}
