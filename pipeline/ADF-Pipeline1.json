@@ -64,7 +64,7 @@
 			"name": "CityPower"
 		},
 		"annotations": [],
-		"lastPublishTime": "2020-08-15T14:11:55Z"
+		"lastPublishTime": "2020-08-15T14:25:37Z"
 	},
 	"type": "Microsoft.DataFactory/factories/pipelines"
 }
