@@ -26,22 +26,6 @@
 				"typeProperties": {
 					"waitTimeInSeconds": 1
 				}
-			},
-			{
-				"name": "Wait2_copy1",
-				"type": "Wait",
-				"dependsOn": [
-					{
-						"activity": "Wait2",
-						"dependencyConditions": [
-							"Succeeded"
-						]
-					}
-				],
-				"userProperties": [],
-				"typeProperties": {
-					"waitTimeInSeconds": 1
-				}
 			}
 		],
 		"folder": {
