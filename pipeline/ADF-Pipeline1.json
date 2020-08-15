@@ -1,0 +1,9 @@
+{
+	"name": "ADF-Pipeline1",
+	"properties": {
+		"folder": {
+			"name": "CityPower"
+		},
+		"annotations": []
+	}
+}
