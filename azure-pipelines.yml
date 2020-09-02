@@ -25,6 +25,7 @@ steps:
   displayName: 'pwd'
 
 - script: |
+    cd PackageLib/DT
     python setup.py sdist
   displayName: 'Artifact creation'
 
