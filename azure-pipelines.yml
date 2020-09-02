@@ -26,7 +26,7 @@ steps:
 
 - script: |
     cd PackageLib/DT
-    python setup.py sdist
+    python setup.py bdist_egg
   displayName: 'Artifact creation'
 
 - task: CopyFiles@2
